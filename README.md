@@ -1,4 +1,4 @@
 # jayeshmachhi-demo
 This is my first Repository
 <br>
-Author - Jayesh Machhi
+Author - Jayesh Machhi(student)
